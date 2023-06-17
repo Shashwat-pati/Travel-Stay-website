@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.835dc337.css",
+    "main.js": "/static/js/main.ef9a2205.js",
+    "static/media/image 1.jpg": "/static/media/image 1.805dbcf81b676428ada0.jpg",
+    "static/media/guanajuato_2.jpg": "/static/media/guanajuato_2.22c7b0d566ecbdcc2aaa.jpg",
+    "static/media/image 2.jpg": "/static/media/image 2.0736d99fb8179279e6a3.jpg",
+    "static/media/image 5.jpg": "/static/media/image 5.895e10f64edf80aa7a5d.jpg",
+    "static/media/image 7.jpg": "/static/media/image 7.050ef8ff6c80c6a7249e.jpg",
+    "static/media/image 3.jpg": "/static/media/image 3.f5b8ffb07231437db20d.jpg",
+    "static/media/image 8.jpg": "/static/media/image 8.4435245a3de2beaf5d40.jpg",
+    "static/media/image 6.jpg": "/static/media/image 6.2bd07de8846c8d918710.jpg",
+    "static/media/image 10.jpg": "/static/media/image 10.e0b92b1bc355cc1a115c.jpg",
+    "static/media/machu_pichu.jpg": "/static/media/machu_pichu.4ba6faac592c84c86367.jpg",
+    "static/media/taj_mahal_2.jpg": "/static/media/taj_mahal_2.62a245d52c1b5a6bf6a2.jpg",
+    "static/media/angkor_wat.jpg": "/static/media/angkor_wat.2d224476899ce883532c.jpg",
+    "static/media/video_city-3.mp4": "/static/media/video_city-3.3b158d01a70f767a7b8d.mp4",
+    "static/media/map_1.jpg": "/static/media/map_1.c94e8b64f1260d322934.jpg",
+    "static/media/mountain.png": "/static/media/mountain.abbb79d795735d5024a7.png",
+    "static/media/climbing.png": "/static/media/climbing.7c229cb8b9bd99922ae4.png",
+    "static/media/customer.png": "/static/media/customer.78d779886d08cf0ac5da.png",
+    "index.html": "/index.html",
+    "main.835dc337.css.map": "/static/css/main.835dc337.css.map",
+    "main.ef9a2205.js.map": "/static/js/main.ef9a2205.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.835dc337.css",
+    "static/js/main.ef9a2205.js"
+  ]
+}
