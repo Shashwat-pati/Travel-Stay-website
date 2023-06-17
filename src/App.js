@@ -9,17 +9,17 @@ import Offer from "./Components/Offers/Offers";
 import Popular from "./Components/Popular/Popular";
 
 const App = () => {
-  return (
-    <>
-      <Navbar />
-      <Home />
-      <Popular />
-      <Offer />
-      <About />
-      <Blog />
-      <Footer />
-    </>
-  );
+    return (
+        <>
+            <Navbar />
+            <Home />
+            <Popular />
+            <Offer />
+            <About />
+            <Blog />
+            <Footer />
+        </>
+    );
 };
 
 export default App;
