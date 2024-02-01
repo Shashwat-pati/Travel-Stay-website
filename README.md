@@ -25,7 +25,8 @@ You may also see any lint errors in the console.
 Builds the app for production to the `build` folder.\
 
 
-Below is the attached images and Video description of the web-application build.💖
+
+🔖 Below is the attached Images and Video description of the web-application build.
 
 -- Video --🎥
 https://github.com/Shashwat-pati/Travel-Stay-website/assets/99614901/162e37d1-061f-43ca-ba89-893512ad29d8
