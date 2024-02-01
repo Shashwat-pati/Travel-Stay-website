@@ -1,13 +1,15 @@
-# Getting Started with Create React App
+Travel & Stay Website- Udaan
+🔹A frontend application which can be used to develop a Full Stack website for travel geeks & vloggers.
+🔹I have designed the website using `React.js` & used `Aos Module` which is an animation-providing JavaScript library that makes it easier to add tons of animations by simply changing the name of the class in the div tag in which you want to add an animation.
+🔹Used `Material UI` & `IconScout` for better UI designing.
+🔹Learnt the use of `create-react-app` for viewing the website locally on the developer end.
+🔹The app shows various functionalities such as popular destination,accomodation,special offers on selected Hotels & Blogs about various places.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
 In the project directory, you can run:
 
 ### `npm start`
-
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
