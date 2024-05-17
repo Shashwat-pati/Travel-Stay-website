@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# Travel & Stay Website- Udaan
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🔹A frontend application which can be used to develop a Full Stack website for travel geeks & vloggers.
+
+🔹I have designed the website using `React.js` & used `Aos Module` which is an animation-providing JavaScript library that makes it easier to add tons of animations by simply changing the name of the class in the div tag in which you want to add an animation.
+
+🔹Used `Material UI` & `IconScout` for better UI designing.
+
+🔹Learnt the use of `create-react-app` for viewing the website locally on the developer end.
+
+🔹The app shows various functionalities such as popular destination,accomodation,special offers on selected Hotels & Blogs about various places.
+
+-----------------------------------------------------------------------------------
+
 
 ## Available Scripts
 
 In the project directory, you can run:
 
 ### `npm start`
-
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
 ### `npm run build`
-
 Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+-----------------------------------------------------------------------------------
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+🔖 Below is the attached Images and Video description of the web-application build.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+-- Video --🎥
+https://github.com/Shashwat-pati/Travel-Stay-website/assets/99614901/162e37d1-061f-43ca-ba89-893512ad29d8
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+-- Images --📸
+![Screenshot (23)](https://github.com/Shashwat-pati/Travel-Stay-website/assets/99614901/ebabc22b-12e6-487c-9575-492ac9761bcc)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![Screenshot (24)](https://github.com/Shashwat-pati/Travel-Stay-website/assets/99614901/1a2955ab-b0c8-4f7f-b41f-261a646d4794)
 
-## Learn More
+![Screenshot (25)](https://github.com/Shashwat-pati/Travel-Stay-website/assets/99614901/e0ac9ae4-82ea-41db-8436-f0ab5e2970a6)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![Screenshot (26)](https://github.com/Shashwat-pati/Travel-Stay-website/assets/99614901/a514fae5-3bdb-4bd0-b0a3-b33c5c425a84)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Screenshot (27)](https://github.com/Shashwat-pati/Travel-Stay-website/assets/99614901/0288751b-2990-445c-aeb0-d4fe54408ed2)
 
-### Code Splitting
+![Screenshot (28)](https://github.com/Shashwat-pati/Travel-Stay-website/assets/99614901/f51b737e-6c95-4354-b950-4c5783ae93fe)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
